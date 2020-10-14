@@ -1,0 +1,164 @@
+/* StyleSheet.css */
+BODY {
+	margin: 0px;
+	padding: 0px;
+	background-color: white;
+	color: black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+}
+
+a:hover {text-decoration:underline; color:339900;}
+a.link:hover {text-decoration:underline; color:66ff66;}
+
+.buttonClass {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.buttonMenuClass {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.boldPromptTextClass {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.errorStatusClass {
+	font-size: 10px;
+	color: red;
+}
+
+.errorStatusBoldClass {
+	font-size: 10px;
+	color: red;
+	font-weight: bold;
+}
+
+.errorBigStatusBoldClass {
+	font-size: 16px;
+	color: red;
+	font-weight: bold;
+}
+
+.onholdStatusClass {
+	font-size: 10px;
+	color: green;
+}
+
+.onholdStatusBoldClass {
+	font-size: 10px;
+	color: green;
+	font-weight: bold;
+}
+
+.onholdStatusSmallBoldClass {
+	font-size: 8px;
+	color: green;
+	font-weight: bold;
+}
+
+.normalStatusClass {
+	font-size: 10px;
+	color: blue;
+}
+
+.normalStatusBoldClass {
+	font-size: 10px;
+	color: blue;
+	font-weight: bold;
+}
+
+.normalBigStatusBoldClass {
+	font-size: 16px;
+	color: blue;
+	font-weight: bold;
+}
+
+.textClass {
+	font-size: 10px;
+}
+
+.textBoldClass {
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.textYellowBoldClass {
+	font-size: 10px;
+	font-weight: bold;
+	color: yellow;
+}
+
+.textOnlineClass {
+	font-size: 10px;
+	font-weight: bold;
+	color: black;
+	background-color: lime;
+}
+
+.textOfflineClass {
+	font-size: 10px;
+	font-weight: bold;
+	color: black;
+	background-color: red;
+}
+
+.textEntryClass {
+	font-size: 11px;
+}
+
+.workingStatusClass {
+	font-size: 10px;
+	color: black;
+	font-weight: bold;
+}
+
+.paperBgColorClass {
+	background-color : #FFFACD;
+}
+
+.paperBgErrorColorClass {
+	background-color : #FF8080;
+}
+
+.code {
+	font-family: courier;
+	font-size: 11px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	max-height: 200px;
+}
+
+.codePrint {
+	font-family: courier;
+	font-size: 11px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+}
+
+.codeSmall {
+	font-family: courier;
+	font-size: 10px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	max-height: 200px;
+}
+
+.codeSmaller {
+	font-family: courier;
+	font-size: 8px;
+	color: black;
+	border: solid thin #0000cc;
+	background-color: #ffffcc;
+	overflow: auto;
+	max-height: 200px;
+}
+
